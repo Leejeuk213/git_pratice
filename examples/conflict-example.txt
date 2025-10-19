@@ -1,0 +1,14 @@
+# Conflict 실습 예제 파일
+
+이 파일은 conflict 실습을 위한 예제입니다.
+
+## 초기 내용
+Line 1: This is the original content
+Line 2: Initial version
+Line 3: Ready for changes
+
+## 실습 방법
+1. main 브랜치에서 이 파일을 수정하고 커밋합니다
+2. 새 브랜치를 생성하여 같은 라인을 다르게 수정합니다
+3. main 브랜치에 병합을 시도하여 conflict를 발생시킵니다
+4. conflict를 해결합니다
